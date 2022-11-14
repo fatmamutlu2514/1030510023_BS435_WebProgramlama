@@ -1,4 +1,4 @@
-Öğrenci Numarası: 1030510023
-Öğrenci Adı: Fatma Mutlu
+Öğrenci Numarası: 1030510023 <br /> <br />
+Öğrenci Adı: Fatma Mutlu <br /> <br />
 Ders Adı: BS435 Web Programlama
 
